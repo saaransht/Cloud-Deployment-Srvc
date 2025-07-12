@@ -1,4 +1,4 @@
-# Vercel Clone
+# Deploy Wave
 
 
 Whiteboard Diagram: https://app.eraser.io/workspace/0f8XnDF61iGcatypPqIR?origin=share
